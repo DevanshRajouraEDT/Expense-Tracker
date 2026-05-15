@@ -1,0 +1,5 @@
+Expense: 200 | Category: Food
+Expense: 500 | Category: Travel
+Expense: 500 | Category: Food
+Expense: 700 | Category: Travel
+Expense: 900 | Category: Shopping

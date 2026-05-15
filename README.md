@@ -96,6 +96,14 @@ I built this project to improve my understanding of Python fundamentals while cr
 
 ---
 
+##Screenshots Of Operations
+https://cdn.discordapp.com/attachments/1422175050051878912/1504717850328301568/Screenshot_1.png?ex=6a080133&is=6a06afb3&hm=c4a2716c2d6e953ea3a6a54da1f6404295d7d27cb1229eaf99228e2e68fdf67f&
+
+https://cdn.discordapp.com/attachments/1422175050051878912/1504717850622033970/Screenshot_2.png?ex=6a080133&is=6a06afb3&hm=68604b25c4992b4f3a26c8028d5ce2b2912b7f089edf699f6855c2e5a110143f&
+
+https://cdn.discordapp.com/attachments/1422175050051878912/1504717850940669952/Screenshot_3.png?ex=6a080133&is=6a06afb3&hm=0ff279646869cdef7a65fd228ddc267466a8c3b93854623923fdd072cdcf6407&
+
+
 ## Future Improvements
 
 - Add monthly expense tracking

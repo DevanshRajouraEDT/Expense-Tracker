@@ -98,15 +98,18 @@ I built this project to improve my understanding of Python fundamentals while cr
 
 ## Project Screenshots
 
+
+
 ### Menu Screen
 
-![Menu Screen](screenshots/menu.png)
+![Menu Screen](menu.png)
 
 ---
 
 ### Expense Chart
 
-![Expense Chart](screenshots/chart.png)
+![Expense Chart](chart.png)
+
 
 ## Future Improvements
 
